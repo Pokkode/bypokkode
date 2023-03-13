@@ -157,7 +157,7 @@ nav button {
 
 /*============ HEADER ===============*/
 .wallpaper {
-  background-image: url('/assets/images/photos/team.jpg');
+  background-image: url('https://i.postimg.cc/D02mdzGK/team.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
@@ -822,7 +822,7 @@ footer ul li a:hover {
   .footer__socials {
     justify-content: center;
   }
-
+  
   .row {
     padding-left: 0;
   }
