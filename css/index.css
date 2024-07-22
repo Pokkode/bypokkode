@@ -157,7 +157,7 @@ nav button {
 
 /*============ HEADER ===============*/
 .wallpaper {
-  background-image: url('/assets/images/team.jpg');
+  background-image: url('../assets/images/team.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
